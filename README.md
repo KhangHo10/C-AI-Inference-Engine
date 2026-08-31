@@ -1,6 +1,6 @@
 # C++ AI Inference Engine
 
-A custom, memory-efficient inference engine built to serve and stream quantized local language models. Rather than relying on external APIs, this project implements a full-stack AI deployment pipeline from the ground up—bridging low-level systems programming with a modern web interface.
+A custom, memory-efficient inference engine built to serve and stream quantized local language models. Rather than relying on external APIs, this project implements a full-stack AI deployment pipeline from the ground up, bridging low-level systems programming with a modern web interface.
 
 ### Architecture Overview
 * **C++ Core (GGML):** Handles tensor operations, matrix multiplications, and memory-mapped model loading for high-throughput token generation.
